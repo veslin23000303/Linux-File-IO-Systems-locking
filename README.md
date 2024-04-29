@@ -38,9 +38,9 @@ write(out,block,nread);
 exit(0);}
 ```
 ## OUTPUT
+```
 -rwxr-xr-x    1 root     root         18348 Apr 18 16:02 file.o
-
-
+```
 
 
 
@@ -88,7 +88,9 @@ return 0;
 
 
 ## OUTPUT
+```
 -rwxr-xr-x    1 root     root         18376 Apr 18 16:02 text.o
+```
 
 
 
